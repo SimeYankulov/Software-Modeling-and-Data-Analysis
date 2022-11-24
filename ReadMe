@@ -1,0 +1,9 @@
+This is a project for the course of Software Modeling and Data Analysis
+It represents a Score application that analyses sports, matches, players.
+It contains the 
+  - Conceptual model - Chen Notation
+  - Logical model - Crow's foot notation
+  - Physical model - UML database notation
+  - SQL database 
+  - Data warehouse diagrams
+  - PowerBI visualisations
